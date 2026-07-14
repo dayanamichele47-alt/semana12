@@ -1,0 +1,13 @@
+Automatización propuesta:
+
+Evento que activa la automatización:
+Se registra una nueva causa en la plataforma.
+
+Acción:
+n8n envía una notificación automática a un canal de Telegram.
+
+Mensaje:
+"Nueva causa creada en la plataforma. Revisar el sistema para más información."
+
+Información que no debe enviarse:
+Cédulas, números de teléfono, direcciones, contraseñas, tokens, claves de API, comentarios sensibles ni datos personales de los usuarios.
